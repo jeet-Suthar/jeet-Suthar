@@ -4,7 +4,4 @@
 
 I am a **Software Developer & AI/ML Researcher** dedicated to building intelligent, minimalist, and user-centric digital experiences. Currently pursuing an Msc in ML at LJMU. I love building project that challenges my comfort zone and help me grow.
 
----
-
-### 🌐 Connect with Me
-[<img src="https://img.shields.io/badge/View_My_Profile-jitendrasuthar.vercel.app-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://jitendrasuthar.vercel.app)
+[<img src="https://img.shields.io/badge/View_My_Profile-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" />](https://jitendrasuthar.vercel.app)
